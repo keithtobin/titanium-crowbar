@@ -1,0 +1,36 @@
+#!/bin/bash
+
+echo 'downloading barclamp-openstack-titanium-database'
+git clone https://github.com/crowbar/barclamp-openstack-titanium-database.git
+
+echo 'downloading barclamp-openstack-titanium-messaging'
+git clone https://github.com/crowbar/barclamp-openstack-titanium-messaging.git
+
+echo 'downloadingbarclamp-openstack-titanium-compute'
+git clone https://github.com/crowbar/barclamp-openstack-titanium-compute.git
+
+echo 'downloading barclamp-openstack-titanium-loadbalancer'
+git clone https://github.com/crowbar/barclamp-openstack-titanium-loadbalancer.git
+
+echo 'downloading barclamp-openstack-titanium-network'
+git clone https://github.com/crowbar/barclamp-openstack-titanium-network.git
+
+echo 'downloading  barclamp-openstack-titanium-image'
+git clone https://github.com/crowbar/barclamp-openstack-titanium-image.git
+
+echo 'downloading barclamp-openstack-titanium-dashboard'
+git clone https://github.com/crowbar/barclamp-openstack-titanium-dashboard.git
+
+echo 'downloading barclamp-openstack-titanium-identity'
+git clone https://github.com/crowbar/barclamp-openstack-titanium-identity.git 
+
+echo 'downloading barclamp-openstack-titanium-block-storage'
+git clone https://github.com/crowbar/barclamp-openstack-titanium-block-storage.git
+
+echo 'downloading barclamp-openstack-titanium-base'
+git clone https://github.com/crowbar/barclamp-openstack-titanium-base.git
+
+exho 'Finished.....'
+
+
+
