@@ -30,7 +30,7 @@ git clone https://github.com/crowbar/barclamp-openstack-titanium-block-storage.g
 echo 'downloading barclamp-openstack-titanium-base'
 git clone https://github.com/crowbar/barclamp-openstack-titanium-base.git
 
-exho 'Finished.....'
+echo 'Finished.....'
 
 
 
